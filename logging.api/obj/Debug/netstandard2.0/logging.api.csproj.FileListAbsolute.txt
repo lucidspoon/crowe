@@ -1,0 +1,9 @@
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.csprojAssemblyReference.cache
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.csproj.CoreCompileInputs.cache
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.AssemblyInfoInputs.cache
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.AssemblyInfo.cs
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/bin/Debug/netstandard2.0/logging.api.deps.json
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/bin/Debug/netstandard2.0/logging.api.dll
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/bin/Debug/netstandard2.0/logging.api.pdb
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.dll
+/Users/blakebryan/Projects/sandbox/crowe/logging.api/obj/Debug/netstandard2.0/logging.api.pdb

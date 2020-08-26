@@ -1,0 +1,15 @@
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.deps.json
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.runtimeconfig.json
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.runtimeconfig.dev.json
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.dll
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.pdb
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.csprojAssemblyReference.cache
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.csproj.CoreCompileInputs.cache
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.AssemblyInfoInputs.cache
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.AssemblyInfo.cs
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.dll
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.pdb
+/Users/blakebryan/Projects/sandbox/crowe/console/obj/Debug/netcoreapp2.2/console.csproj.CopyComplete
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/logging.api.dll
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/logging.api.pdb
+/Users/blakebryan/Projects/sandbox/crowe/console/bin/Debug/netcoreapp2.2/console.dll.config
